@@ -1,0 +1,24 @@
+.container{border: 1px solid black;
+    width: 300px;
+    padding: 10px;
+
+box-shadow: 5px 10px grey;
+}
+    
+    
+.description{
+    border: 1px solid #0c0c0c;
+   padding: 10px;
+}
+
+.image{
+    width: 300px;
+}
+.lion{
+    padding: 17px;
+}
+
+.list{
+    padding:0;
+    style="list-style-type:none"}
+
