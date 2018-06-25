@@ -1,5 +1,7 @@
 # Animal-Trading-Card
 
+![Reset](https://github.com/theanmoldhillon/Animal-Trading-Card/blob/master/anmial card screenshot.PNG?raw=true)
+
 ### Animal Card made using CSS.
 
 # Description
